@@ -1,4 +1,4 @@
-# 疫情上报
+# boc vote
 
 > A Vue.js project
 
