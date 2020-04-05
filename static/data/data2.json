@@ -1,0 +1,284 @@
+{
+  "reCode": "0000",
+  "reMsg": "",
+  "tokenId": "",
+  "modelSxId": "民主测评",
+  "modelSxDesc": "民主测评",
+  "activeId": "",
+  "questions": [
+    {
+      "isMust": "Y",
+      "questionId": "001",
+      "questionDesc": "1、请对令狐冲同志的履职情况进行评价：",
+      "questionType": "radio",
+      "isHmc": "N",
+      "questionSort": "1",
+      "answers": [
+        {
+          "answerId": "001",
+          "answerDesc": "优秀",
+          "isInput": "N",
+          "answerSort": 1
+        },
+        {
+          "answerId": "002",
+          "answerDesc": "称职",
+          "isInput": "N",
+          "answerSort": 2
+        },
+        {
+          "answerId": "003",
+          "answerDesc": "基本称职",
+          "isInput": "N",
+          "answerSort": 3
+        },
+        {
+          "answerId": "004",
+          "answerDesc": "不称职",
+          "isInput": "N",
+          "answerSort": 4
+        },
+        {
+          "answerId": "005",
+          "answerDesc": "不了解",
+          "isInput": "N",
+          "answerSort": 5
+        }
+      ],
+      "hmcTjs": [],
+      "hmcInfos": []
+    },
+    {
+      "isMust": "Y",
+      "questionId": "002",
+      "questionDesc": "2、您是否同意令狐冲同志的提拔聘任：",
+      "questionType": "radio",
+      "isHmc": "N",
+      "questionSort": "2",
+      "answers": [
+        {
+          "answerId": "001",
+          "answerDesc": "同意",
+          "isInput": "N",
+          "answerSort": 1
+        },
+        {
+          "answerId": "002",
+          "answerDesc": "不同意",
+          "isInput": "N",
+          "answerSort": 2
+        },
+        {
+          "answerId": "003",
+          "answerDesc": "不了解",
+          "isInput": "N",
+          "answerSort": 3
+        }
+      ],
+      "hmcTjs": [],
+      "hmcInfos": []
+    },
+    {
+      "questionId": "003",
+      "questionDesc": "3、令狐冲同志主要优点（请勾选3-5项）【多选题】",
+      "questionType": "checkbox",
+      "isHmc": "N",
+      "questionSort": "3",
+      "answers": [
+        {
+          "answerId": "001",
+          "answerDesc": "1、思想政治素质较好",
+          "isInput": "N",
+          "answerSort": 1
+        },
+        {
+          "answerId": "002",
+          "answerDesc": "2、全局意识大局观念强",
+          "isInput": "N",
+          "answerSort": 2
+        },
+        {
+          "answerId": "003",
+          "answerDesc": "3、团结协作精神强",
+          "isInput": "N",
+          "answerSort": 3
+        },
+        {
+          "answerId": "004",
+          "answerDesc": "4、开拓创新意识强",
+          "isInput": "N",
+          "answerSort": 4
+        },
+        {
+          "answerId": "005",
+          "answerDesc": "5、作风民主，善于听取意见",
+          "isInput": "N",
+          "answerSort": 5
+        },
+        {
+          "answerId": "006",
+          "answerDesc": "6、善学习，知识全，适应能力强",
+          "isInput": "N",
+          "answerSort": 6
+        },
+        {
+          "answerId": "007",
+          "answerDesc": "7、专业技能强，实践经验丰富",
+          "isInput": "N",
+          "answerSort": 7
+        },
+        {
+          "answerId": "008",
+          "answerDesc": "8、决策及时、准确、果断",
+          "isInput": "N",
+          "answerSort": 8
+        },
+        {
+          "answerId": "009",
+          "answerDesc": "9、领导和驾驭能力强",
+          "isInput": "N",
+          "answerSort": 9
+        },
+        {
+          "answerId": "0010",
+          "answerDesc": "10、沟通协调能力强",
+          "isInput": "N",
+          "answerSort": 10
+        },
+        {
+          "answerId": "0011",
+          "answerDesc": "11、工作思路宽，预见性强",
+          "isInput": "N",
+          "answerSort": 11
+        },
+        {
+          "answerId": "0012",
+          "answerDesc": "12、工作务实，勤奋敬业",
+          "isInput": "N",
+          "answerSort": 12
+        },
+        {
+          "answerId": "0013",
+          "answerDesc": "13、有魄力，敢于管理",
+          "isInput": "N",
+          "answerSort": 13
+        },
+        {
+          "answerId": "0014",
+          "answerDesc": "14、讲方法，善于调动积极性",
+          "isInput": "N",
+          "answerSort": 14
+        },
+        {
+          "answerId": "0015",
+          "answerDesc": "15、注意深入基层，联系群众",
+          "isInput": "N",
+          "answerSort": 15
+        },
+        {
+          "answerId": "0016",
+          "answerDesc": "16、品行端正，群众威信高",
+          "isInput": "N",
+          "answerSort": 16
+        },
+        {
+          "answerId": "0017",
+          "answerDesc": "17、严于律己，遵章守纪",
+          "isInput": "N",
+          "answerSort": 17
+        },
+        {
+          "answerId": "0018",
+          "answerDesc": "18、承压能力强，心理素质好",
+          "isInput": "N",
+          "answerSort": 18
+        },
+        {
+          "answerId": "0019",
+          "answerDesc": "其他",
+          "isInput": "Y",
+          "answerSort": 19
+        },
+        {
+          "answerId": "0020",
+          "answerDesc": "其他2",
+          "isInput": "Y",
+          "answerSort": 20
+        }
+      ],
+      "hmcTjs": [],
+      "hmcInfos": []
+    },
+    {
+      "questionId": "004",
+      "questionDesc": "4、令狐冲同志主要缺点：【多选题】",
+      "questionType": "checkbox",
+      "isHmc": "N",
+      "questionSort": "4",
+      "answers": [
+        {
+          "answerId": "001",
+          "answerDesc": "1、工作思路不够开阔",
+          "isInput": "N",
+          "answerSort": 1
+        },
+        {
+          "answerId": "002",
+          "answerDesc": "2、须加强对新业务的学习",
+          "isInput": "N",
+          "answerSort": 2
+        },
+        {
+          "answerId": "003",
+          "answerDesc": "3、缺乏基层、一线工作经验",
+          "isInput": "N",
+          "answerSort": 3
+        },
+        {
+          "answerId": "004",
+          "answerDesc": "4、创新精神有一定欠缺",
+          "isInput": "N",
+          "answerSort": 4
+        },
+        {
+          "answerId": "005",
+          "answerDesc": "5、魄力不足，管理力度有待加强",
+          "isInput": "N",
+          "answerSort": 5
+        },
+        {
+          "answerId": "006",
+          "answerDesc": "6、沟通协调能力有所欠缺",
+          "isInput": "N",
+          "answerSort": 6
+        },
+        {
+          "answerId": "007",
+          "answerDesc": "7、比较固执，较难听取不同意见",
+          "isInput": "N",
+          "answerSort": 7
+        },
+        {
+          "answerId": "008",
+          "answerDesc": "8、工作方法简单，管理艺术有待锤炼",
+          "isInput": "N",
+          "answerSort": 8
+        },
+        {
+          "answerId": "009",
+          "answerDesc": "9、存在推诿扯皮现象",
+          "isInput": "N",
+          "answerSort": 9
+        },
+        {
+          "answerId": "0010",
+          "answerDesc": "其他",
+          "isInput": "Y",
+          "answerSort": 10
+        }
+      ],
+      "hmcTjs": [],
+      "hmcInfos": []
+    }
+  ]
+}

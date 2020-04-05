@@ -1,0 +1,388 @@
+{
+  "reCode": "0000",
+  "reMsg": "",
+  "tokenId": "",
+  "modelSxId": "民主推荐",
+  "modelSxDesc": "民主推荐",
+  "activeId": "",
+  "questions": [
+    {
+      "isMust": "Y",
+      "questionId": "001",
+      "questionDesc": "1、候选人名单及资格条件如下，请选择拟认【中层管理副职】推荐人选：",
+      "questionType": "radio",
+      "isHmc": "Y",
+      "questionSort": "1",
+      "answers": [],
+      "hmcTjs": [
+        {
+          "hmcTjId": "001",
+          "hmcTypeId": "",
+          "hmcTjDesc": "（一）一般应具有大学本科以上学历，5年及以上金融或相关工作经历，2年以上基层工作经历；",
+          "hmcTjSort": "1"
+        },
+        {
+          "hmcTjId": "002",
+          "hmcTypeId": "",
+          "hmcTjDesc": "（二）须在基层管理正职及以上职位任职的经历；",
+          "hmcTjSort": "2"
+        },
+        {
+          "hmcTjId": "003",
+          "hmcTypeId": "",
+          "hmcTjDesc": "（三）近三年年度绩效考核结果为B及以上，且至少一年为A+或A。或有两年为B+；",
+          "hmcTjSort": "3"
+        },
+        {
+          "hmcTjId": "004",
+          "hmcTypeId": "",
+          "hmcTjDesc": "（四）无影响职位晋升的组织处理或处分情况。",
+          "hmcTjSort": "3"
+        }
+      ],
+      "hmcInfos": [
+        {
+          "answerId": "001",
+          "name": "张三丰",
+          "tableCol": [
+            {
+              "prop": "id",
+              "label": "序号"
+            },
+            {
+              "prop": "name",
+              "label": "姓名"
+            },
+            {
+              "prop": "unit",
+              "label": "单位"
+            },
+            {
+              "prop": "position",
+              "label": "职位"
+            },
+            {
+              "prop": "gender",
+              "label": "性别"
+            },
+            {
+              "prop": "date",
+              "label": "出生日期"
+            },
+            {
+              "prop": "age",
+              "label": "年龄"
+            }
+          ],
+          "tableVal": [
+            {
+              "id": "1",
+              "name": "张三丰",
+              "unit": "xx团队部门",
+              "position": "副总经理",
+              "gender": "男",
+              "date": "1959年5月",
+              "age": "53"
+            }
+          ]
+        },
+        {
+          "answerId": "002",
+          "name": "黄药师",
+          "tableCol": [
+            {
+              "prop": "id",
+              "label": "序号"
+            },
+            {
+              "prop": "name",
+              "label": "姓名"
+            },
+            {
+              "prop": "unit",
+              "label": "单位"
+            },
+            {
+              "prop": "position",
+              "label": "职位"
+            },
+            {
+              "prop": "gender",
+              "label": "性别"
+            },
+            {
+              "prop": "date",
+              "label": "出生日期"
+            },
+            {
+              "prop": "age",
+              "label": "年龄"
+            }
+          ],
+          "tableVal": [
+            {
+              "id": "2",
+              "name": "黄药师",
+              "unit": "xx团队部门",
+              "position": "副总经理",
+              "gender": "男",
+              "date": "1959年5月",
+              "age": "53"
+            }
+          ]
+        },
+        {
+          "answerId": "003",
+          "name": "周伯通",
+          "tableCol": [
+            {
+              "prop": "id",
+              "label": "序号"
+            },
+            {
+              "prop": "name",
+              "label": "姓名"
+            },
+            {
+              "prop": "unit",
+              "label": "单位"
+            },
+            {
+              "prop": "position",
+              "label": "职位"
+            },
+            {
+              "prop": "gender",
+              "label": "性别"
+            },
+            {
+              "prop": "date",
+              "label": "出生日期"
+            },
+            {
+              "prop": "age",
+              "label": "年龄"
+            }
+          ],
+          "tableVal": [
+            {
+              "id": "3",
+              "name": "周伯通",
+              "unit": "xx团队部门",
+              "position": "副总经理",
+              "gender": "男",
+              "date": "1959年5月",
+              "age": "53"
+            }
+          ]
+        },
+        {
+          "answerId": "004",
+          "name": "爱新觉罗",
+          "tableCol": [
+            {
+              "prop": "id",
+              "label": "序号"
+            },
+            {
+              "prop": "name",
+              "label": "姓名"
+            },
+            {
+              "prop": "unit",
+              "label": "单位"
+            },
+            {
+              "prop": "position",
+              "label": "职位"
+            },
+            {
+              "prop": "gender",
+              "label": "性别"
+            },
+            {
+              "prop": "date",
+              "label": "出生日期"
+            },
+            {
+              "prop": "age",
+              "label": "年龄"
+            }
+          ],
+          "tableVal": [
+            {
+              "id": "4",
+              "name": "爱新觉罗",
+              "unit": "xx团队部门",
+              "position": "副总经理",
+              "gender": "男",
+              "date": "1959年5月",
+              "age": "53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "isMust": "Y",
+      "questionId": "002",
+      "questionDesc": "2、推荐人选优点（请勾选3-5项）",
+      "questionType": "checkbox",
+      "isHmc": "N",
+      "questionSort": "2",
+      "answers": [
+        {
+          "answerId": "001",
+          "answerDesc": "1、思想政治素质较好",
+          "isInput": "N",
+          "answerSort": 1
+        },
+        {
+          "answerId": "002",
+          "answerDesc": "2、全局意识大局观念强",
+          "isInput": "N",
+          "answerSort": 2
+        },
+        {
+          "answerId": "003",
+          "answerDesc": "3、团结协作精神强",
+          "isInput": "N",
+          "answerSort": 3
+        },
+        {
+          "answerId": "004",
+          "answerDesc": "4、开拓创新意识强",
+          "isInput": "N",
+          "answerSort": 4
+        },
+        {
+          "answerId": "005",
+          "answerDesc": "5、作风民主，善于听取意见",
+          "isInput": "N",
+          "answerSort": 5
+        },
+        {
+          "answerId": "006",
+          "answerDesc": "6、善学习，知识全，适应能力强",
+          "isInput": "N",
+          "answerSort": 6
+        },
+        {
+          "answerId": "007",
+          "answerDesc": "7、专业技能强，实践经验丰富",
+          "isInput": "N",
+          "answerSort": 7
+        },
+        {
+          "answerId": "008",
+          "answerDesc": "8、决策及时、准确、果断",
+          "isInput": "N",
+          "answerSort": 8
+        },
+        {
+          "answerId": "009",
+          "answerDesc": "9、领导和驾驭能力强",
+          "isInput": "N",
+          "answerSort": 9
+        },
+        {
+          "answerId": "0010",
+          "answerDesc": "10、沟通协调能力强",
+          "isInput": "N",
+          "answerSort": 10
+        },
+        {
+          "answerId": "0011",
+          "answerDesc": "11、工作思路宽，预见性强",
+          "isInput": "N",
+          "answerSort": 11
+        },
+        {
+          "answerId": "0012",
+          "answerDesc": "12、工作务实，勤奋敬业",
+          "isInput": "N",
+          "answerSort": 12
+        },
+        {
+          "answerId": "0013",
+          "answerDesc": "13、有魄力，敢于管理",
+          "isInput": "N",
+          "answerSort": 13
+        }
+      ],
+      "hmcTjs": [],
+      "hmcInfos": []
+    },
+    {
+      "questionId": "003",
+      "questionDesc": "3、请根据实际情况勾选推荐人选确定:【多选题】",
+      "questionType": "checkbox",
+      "isHmc": "N",
+      "questionSort": "3",
+      "answers": [
+        {
+          "answerId": "001",
+          "answerDesc": "1、工作思路不够开阔",
+          "isInput": "N",
+          "answerSort": 1
+        },
+        {
+          "answerId": "002",
+          "answerDesc": "2、须加强对新业务的学习",
+          "isInput": "N",
+          "answerSort": 2
+        },
+        {
+          "answerId": "003",
+          "answerDesc": "3、缺乏基层、一线工作经验",
+          "isInput": "N",
+          "answerSort": 3
+        },
+        {
+          "answerId": "004",
+          "answerDesc": "4、创新精神有一定欠缺",
+          "isInput": "N",
+          "answerSort": 4
+        },
+        {
+          "answerId": "005",
+          "answerDesc": "5、魄力不足，管理力度有待加强",
+          "isInput": "N",
+          "answerSort": 5
+        },
+        {
+          "answerId": "006",
+          "answerDesc": "6、沟通协调能力有所欠缺",
+          "isInput": "N",
+          "answerSort": 6
+        },
+        {
+          "answerId": "007",
+          "answerDesc": "7、比较固执，较难听取不同意见",
+          "isInput": "N",
+          "answerSort": 7
+        },
+        {
+          "answerId": "008",
+          "answerDesc": "8、工作方法简单，管理艺术有待锤炼",
+          "isInput": "N",
+          "answerSort": 8
+        },
+        {
+          "answerId": "009",
+          "answerDesc": "9、存在推诿扯皮现象",
+          "isInput": "N",
+          "answerSort": 9
+        },
+        {
+          "answerId": "0010",
+          "answerDesc": "其他",
+          "isInput": "Y",
+          "answerSort": 10
+        }
+      ],
+      "hmcTjs": [],
+      "hmcInfos": []
+    }
+  ]
+}
